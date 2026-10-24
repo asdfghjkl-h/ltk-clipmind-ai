@@ -1,0 +1,14 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local sensitive data
+license-keys.txt
+keys-pool.json
+gen_screenshots.ps1
+
+# Packaging & Dist
+*.zip
+*.log
